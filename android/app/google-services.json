@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "82340952469",
+    "project_id": "zenzone-1",
+    "storage_bucket": "zenzone-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82340952469:android:ba57959801ba1dd5a29e9c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82340952469-7prtspqrg6tmedtd4qbpbj0uko49cj68.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application_1",
+            "certificate_hash": "d5e64c94c007ed857f1a1241985ee3dbb2cfe62b"
+          }
+        },
+        {
+          "client_id": "82340952469-tmp7abpi1ci479pb8sujqbmrdugtrcao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHjY8WDh7mArZw2RbRxUvXj3rcTIo5d6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82340952469-tmp7abpi1ci479pb8sujqbmrdugtrcao.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "82340952469-9g7tq2uh90f3d31a8eid020onsndqpca.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApplication1.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82340952469:android:96c7f7d66e4ac523a29e9c",
+        "android_client_info": {
+          "package_name": "com.example.zenzone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82340952469-mcvbbishc1fe68k7ni5utt6ipqcmpn7d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zenzone",
+            "certificate_hash": "d5e64c94c007ed857f1a1241985ee3dbb2cfe62b"
+          }
+        },
+        {
+          "client_id": "82340952469-tmp7abpi1ci479pb8sujqbmrdugtrcao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHjY8WDh7mArZw2RbRxUvXj3rcTIo5d6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82340952469-tmp7abpi1ci479pb8sujqbmrdugtrcao.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "82340952469-9g7tq2uh90f3d31a8eid020onsndqpca.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApplication1.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
